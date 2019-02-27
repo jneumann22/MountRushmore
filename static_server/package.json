@@ -1,0 +1,25 @@
+{
+  "name": "MountRushmore",
+  "version": "1.0.0",
+  "description": "A Game to Play With Friends, Draft Your Mount Rushmore of Any Topic, Vote on the Best Draft, Look Back at Old Drafts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon static_server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jneumann22/MountRushmore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jneumann22/MountRushmore/issues"
+  },
+  "homepage": "https://github.com/jneumann22/MountRushmore#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
